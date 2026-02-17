@@ -59,7 +59,7 @@ This dashboard solves that problem by providing a centralized analytical solutio
 
 ## 📂 Dataset
 - Adventure Works Sales Dataset
-- ![(AdventureWorksDataset.xlsx)](https://github.com/Sakshi-Gaur01/Adventure-Works-Sales-Dashboard/blob/b5dd537fad5644675c7902f6781723fec0fb0cb5/AdventureWorksDataset.xlsx)
+- [(Download Dataset)](https://github.com/Sakshi-Gaur01/Adventure-Works-Sales-Dashboard/blob/b5dd537fad5644675c7902f6781723fec0fb0cb5/AdventureWorksDataset.xlsx)
 
 ---
 
