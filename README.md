@@ -50,10 +50,10 @@ This dashboard solves that problem by providing a centralized analytical solutio
 ## 🖼️ Dashboard Preview
 
 ### ⏱️ Time Analysis Dashboard
-![(Time Analysis.png)](https://github.com/Sakshi-Gaur01/Adventure-Works-Sales-Dashboard/blob/4da8e208bbffe7b6174f57e618bea13c28529183/Time%20Analysis.png)
+![(Time Analysis.png)]()
 
 ### 📋 Detail Dashboard
-![(Detail Analysis.png)](https://github.com/Sakshi-Gaur01/Adventure-Works-Sales-Dashboard/blob/ff9e4b3ea9f5bc0b4150cc3d49ae76fa89930db1/Detail%20Analysis.png)
+![(Detail Analysis.png)]
 
 ---
 
